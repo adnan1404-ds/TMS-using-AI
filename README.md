@@ -32,14 +32,6 @@ We leverage **Google AI Studio** to bridge the gap between human intuition and l
 
 ---
 
-## 📹 System Preview & Demo
-
-[Video of transport management system software demo with AI integration]
-
-*Above: A walkthrough showing the Excel migration tool in action, followed by the real-time driver tracking dashboard.*
-
----
-
 ## 🚀 Migration Features (The Excel Killer)
 
 Moving from **hundreds of files** to **one source of truth**:
@@ -60,9 +52,7 @@ git clone https://github.com/your-org/tms-ai-core.git
 
 
 2. **Environment Setup:**
-Create a `.env` file and add your Google AI Studio API Key:
-```env
-VITE_GEMINI_API_KEY=your_key_here
+```
 DATABASE_URL=your_db_url
 
 ```
