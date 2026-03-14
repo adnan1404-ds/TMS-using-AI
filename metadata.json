@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ncp latest 23/12/15 latest ncp app",
+  "description": "Admin dashboard with full SQLite database persistence for fleet, attendance, and POL reporting.",
+  "requestFramePermissions": []
+}
