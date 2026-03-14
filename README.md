@@ -46,7 +46,7 @@ Moving from **hundreds of files** to **one source of truth**:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-org/tms-ai-core.git
+https://github.com/adnan1404-ds/TMS-using-AI.git
 
 ```
 
